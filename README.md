@@ -143,5 +143,5 @@ Break All Walls/
 
 ## License
 
-This is a remake/tribute to the classic Breakout arcade game. Graphics and assets are credited to their respective creators.
+This is a remake/tribute to the classic Breakout arcade game. Graphics and assets are credited to their respective creators
 #
